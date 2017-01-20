@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShadowverseDeckMaker", "ShadowverseDeckMaker\ShadowverseDeckMaker.csproj", "{74E2D3AD-20AB-4B8C-B05B-0806FBF6EA8D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeckMaker", "DeckMaker\DeckMaker.csproj", "{684DD082-0CFE-4772-9683-5F5DE1114A98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{74E2D3AD-20AB-4B8C-B05B-0806FBF6EA8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{74E2D3AD-20AB-4B8C-B05B-0806FBF6EA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{74E2D3AD-20AB-4B8C-B05B-0806FBF6EA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{74E2D3AD-20AB-4B8C-B05B-0806FBF6EA8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{684DD082-0CFE-4772-9683-5F5DE1114A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684DD082-0CFE-4772-9683-5F5DE1114A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684DD082-0CFE-4772-9683-5F5DE1114A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684DD082-0CFE-4772-9683-5F5DE1114A98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
