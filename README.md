@@ -1,0 +1,2 @@
+# ShadowverseDeckMaker
+シャドウバースデッキ構築ツール
